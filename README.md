@@ -10,3 +10,5 @@ Sometimes when opening the program it says: "Windows protected your pc" idk what
 
 It only says that becuase the publisher is unknown and idk how to fix that
 
+## Preview
+![Gif]("https://im.ezgif.com/tmp/ezgif-1-3569376c1a.gif")
