@@ -1,5 +1,5 @@
 # ![Icon](https://i.imgur.com/kbwOZST.png) Necrosis's Random Colour Generator
-![previewgif](https://im.ezgif.com/tmp/ezgif-1-3569376c1a.gif)
+![previewgif](https://im.ezgif.com/tmp/ezgif-1-1df564bb9c.gif)
 ## About
 This programs generates a random colour with hex and rgb code!
 
