@@ -10,5 +10,5 @@ Sometimes when opening the program it says: "Windows protected your pc" idk what
 
 It only says that becuase the publisher is unknown and idk how to fix that
 
-
+Google chrome also says that the file might be dangerous (idk why)
 
