@@ -12,3 +12,6 @@ It only says that becuase the publisher is unknown and idk how to fix that
 
 Google chrome also says that the file might be dangerous (idk why)
 
+## Other Versions
+**WEB VERSION: https://necrosis000.github.io/tools/randomcolourgenerator/index.html**
+
